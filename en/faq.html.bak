@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions - Dikera AI</title>
+    <meta name="description" content="Find answers to common questions about Dikera AI, including data security, supported file formats, agents, and plan management.">
+    <link rel="canonical" href="https://www.dikera.ai/en/faq.html">
+    <link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/sss.html">
+    <link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/faq.html">
+    <meta property="og:title" content="Frequently Asked Questions - Dikera AI">
+    <meta property="og:description" content="Questions and answers about Dikera AI.">
+    <meta property="og:url" content="https://www.dikera.ai/en/faq.html">
+    <meta property="og:image" content="https://www.dikera.ai/images/social-preview-faq.jpg">
+    <script src="https://cdn.tailwindcss.com"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" /><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"><script>tailwind.config={theme:{extend:{fontFamily:{sans:['Inter','sans-serif']},colors:{'brand-dark':'#1A202C','brand-dark-secondary':'#2D3748','brand-blue':'#3B82F6','brand-gold':'#FBBF24','brand-light':'#E2E8F0','brand-gray':'#A0AEC0'}}}}</script>
+</head>
+<body class="bg-brand-dark text-brand-light">
+    <nav class="bg-brand-dark/80 backdrop-blur-sm sticky top-0 z-50 border-b border-gray-700/50">
+        <div class="container mx-auto px-6 py-3 flex justify-between items-center">
+            <a href="index.html" class="text-2xl font-bold text-white">Dikera AI</a>
+            <div class="hidden md:flex space-x-6 items-center">
+                <a href="features.html" class="text-brand-gray hover:text-white transition">Features</a>
+                <a href="pricing.html" class="text-brand-gray hover:text-white transition">Pricing</a>
+                <a href="faq.html" class="text-white font-semibold">FAQ</a>
+                <a href="#" class="text-brand-gray hover:text-white transition">Log In</a>
+                <div class="relative" id="lang-switcher"><button id="lang-button" class="flex items-center text-brand-gray hover:text-white"><img src="https://flagcdn.com/w20/gb.png" alt="English" class="w-5 h-5 mr-2"> EN <i class="fas fa-chevron-down fa-xs ml-1"></i></button><div id="lang-menu" class="hidden absolute right-0 mt-2 w-32 bg-brand-dark-secondary rounded-md shadow-lg py-1"><a href="../tr/sss.html" class="flex items-center px-4 py-2 text-sm text-brand-light hover:bg-gray-700"><img src="https://flagcdn.com/w20/tr.png" alt="Türkçe" class="w-5 h-5 mr-2"> TR</a></div></div>
+            </div>
+            <div class="md:hidden"><button id="mobile-menu-button" class="text-white focus:outline-none"><i class="fas fa-bars fa-lg"></i></button></div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden"><a href="features.html" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Features</a><a href="pricing.html" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Pricing</a><a href="faq.html" class="block py-3 px-6 text-sm bg-brand-dark-secondary">FAQ</a><a href="#" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Log In</a></div>
+    </nav>
+    <main class="py-20">
+        <div class="container mx-auto px-6 max-w-4xl">
+            <div class="text-center mb-12"><h1 class="text-4xl md:text-5xl font-extrabold text-white">Frequently Asked Questions</h1><p class="mt-4 max-w-2xl mx-auto text-brand-gray">Have a question you can't find an answer to? Contact us.</p></div>
+            <div class="space-y-4">
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">How secure is my data?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>Your data security is our top priority. We use a completely isolated infrastructure for each client. Your data is protected with industry-standard encryption, both at rest and in transit. Your database and documents will never come into contact with any other client's data.</p></div></div>
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">What file formats can I upload?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>Our platform currently supports the most common document formats, such as .pdf, .docx, and .txt. For scanned (image-based) PDFs, our automatic OCR (Optical Character Recognition) technology activates to successfully extract the text.</p></div></div>
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">What exactly is an "Agent"?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>You can think of an "Agent" as a private workspace you create for a specific case, client, or area of law. Each Agent has its own memory (uploaded documents) and its own chat history. This allows you to keep your projects organized and completely separate from each other.</p></div></div>
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">Can I change my plan later?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>Yes, absolutely. As your needs change, you can upgrade or downgrade between plans at any time. You can easily manage your plan with a few clicks from your control panel.</p></div></div>
+            </div>
+        </div>
+    </main>
+    <footer class="bg-gray-900/50 border-t border-gray-700/50"><div class="container mx-auto px-6 py-8 text-center text-brand-gray"><p>&copy; 2025 Dikera AI. All rights reserved.</p></div></footer>
+    <script>const mobileMenuButton=document.getElementById('mobile-menu-button');const mobileMenu=document.getElementById('mobile-menu');mobileMenuButton.addEventListener('click',()=>{mobileMenu.classList.toggle('hidden');});const faqItems=document.querySelectorAll('.faq-item');faqItems.forEach(item=>{const question=item.querySelector('.faq-question');const answer=item.querySelector('.faq-answer');const icon=question.querySelector('i');question.addEventListener('click',()=>{answer.classList.toggle('hidden');icon.classList.toggle('rotate-180');});});const langButton=document.getElementById('lang-button');const langMenu=document.getElementById('lang-menu');if(langButton){langButton.addEventListener('click',()=>{langMenu.classList.toggle('hidden');});}document.addEventListener('click',function(event){const isClickInside=document.getElementById('lang-switcher').contains(event.target);if(!isClickInside&&langMenu&&!langMenu.classList.contains('hidden')){langMenu.classList.add('hidden');}});</script>
+</body>
+</html>

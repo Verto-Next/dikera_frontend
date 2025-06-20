@@ -1,0 +1,6 @@
+# Tüm arama motorlarının tüm siteyi taramasına izin ver
+User-agent: *
+Allow: /
+
+# Site haritasının konumunu belirt
+Sitemap: https://www.dikera.ai/sitemap.xml

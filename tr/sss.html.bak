@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sıkça Sorulan Sorular - Dikera AI</title>
+    <meta name="description" content="Dikera AI hakkında veri güvenliği, dosya formatları, agent'lar ve plan yönetimi gibi sıkça sorulan soruların cevaplarını bulun.">
+    <link rel="canonical" href="https://www.dikera.ai/tr/sss.html">
+    <link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/faq.html">
+    <link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/sss.html">
+    <meta property="og:title" content="Sıkça Sorulan Sorular - Dikera AI">
+    <meta property="og:description" content="Dikera AI hakkında merak ettikleriniz ve cevapları.">
+    <meta property="og:url" content="https://www.dikera.ai/tr/sss.html">
+    <meta property="og:image" content="https://www.dikera.ai/images/social-preview-faq.jpg">
+    <script src="https://cdn.tailwindcss.com"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" /><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"><script>tailwind.config={theme:{extend:{fontFamily:{sans:['Inter','sans-serif']},colors:{'brand-dark':'#1A202C','brand-dark-secondary':'#2D3748','brand-blue':'#3B82F6','brand-gold':'#FBBF24','brand-light':'#E2E8F0','brand-gray':'#A0AEC0'}}}}</script>
+</head>
+<body class="bg-brand-dark text-brand-light">
+    <nav class="bg-brand-dark/80 backdrop-blur-sm sticky top-0 z-50 border-b border-gray-700/50">
+        <div class="container mx-auto px-6 py-3 flex justify-between items-center">
+            <a href="index.html" class="text-2xl font-bold text-white">Dikera AI</a>
+            <div class="hidden md:flex space-x-6 items-center">
+                <a href="ozellikler.html" class="text-brand-gray hover:text-white transition">Özellikler</a>
+                <a href="fiyatlandirma.html" class="text-brand-gray hover:text-white transition">Fiyatlandırma</a>
+                <a href="sss.html" class="text-white font-semibold">SSS</a>
+                <a href="#" class="text-brand-gray hover:text-white transition">Giriş Yap</a>
+                <div class="relative" id="lang-switcher"><button id="lang-button" class="flex items-center text-brand-gray hover:text-white"><img src="https://flagcdn.com/w20/tr.png" alt="Türkçe" class="w-5 h-5 mr-2"> TR <i class="fas fa-chevron-down fa-xs ml-1"></i></button><div id="lang-menu" class="hidden absolute right-0 mt-2 w-32 bg-brand-dark-secondary rounded-md shadow-lg py-1"><a href="../en/faq.html" class="flex items-center px-4 py-2 text-sm text-brand-light hover:bg-gray-700"><img src="https://flagcdn.com/w20/gb.png" alt="English" class="w-5 h-5 mr-2"> EN</a></div></div>
+            </div>
+            <div class="md:hidden"><button id="mobile-menu-button" class="text-white focus:outline-none"><i class="fas fa-bars fa-lg"></i></button></div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden"><a href="ozellikler.html" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Özellikler</a><a href="fiyatlandirma.html" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Fiyatlandırma</a><a href="sss.html" class="block py-3 px-6 text-sm bg-brand-dark-secondary">SSS</a><a href="#" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Giriş Yap</a></div>
+    </nav>
+    <main class="py-20">
+        <div class="container mx-auto px-6 max-w-4xl">
+            <div class="text-center mb-12"><h1 class="text-4xl md:text-5xl font-extrabold text-white">Aklınızdaki Sorular</h1><p class="mt-4 max-w-2xl mx-auto text-brand-gray">Cevabını bulamadığınız bir soru mu var? Bize ulaşın.</p></div>
+            <div class="space-y-4">
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">Verilerim ne kadar güvende?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>Veri güvenliğiniz en büyük önceliğimizdir. Her müşteri için tamamen izole edilmiş bir altyapı kullanıyoruz. Verileriniz, hem beklemedeyken hem de aktarım sırasında endüstri standardı şifreleme yöntemleriyle korunur. Veritabanınız ve dökümanlarınız başka hiçbir müşterinin verisiyle asla temas etmez.</p></div></div>
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">Hangi dosya formatlarını yükleyebilirim?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>Platformumuz şu anda .pdf, .docx, .txt gibi en yaygın döküman formatlarını desteklemektedir. Taranmış (resim formatında) PDF'ler için de otomatik OCR (Optik Karakter Tanıma) teknolojimiz devreye girerek metinleri başarıyla çıkarır.</p></div></div>
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">"Agent" tam olarak nedir?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>Bir "Agent"ı, belirli bir dava, müvekkil veya hukuk alanı için oluşturduğunuz özel bir çalışma alanı olarak düşünebilirsiniz. Her Agent'ın kendi hafızası (yüklenen dökümanlar) ve kendi sohbet geçmişi vardır. Bu, projelerinizi düzenli ve birbirinden tamamen ayrı tutmanızı sağlar.</p></div></div>
+                <div class="faq-item bg-brand-dark-secondary rounded-lg"><button class="faq-question w-full flex justify-between items-center text-left p-6"><span class="text-lg font-semibold text-white">Planımı daha sonra değiştirebilir miyim?</span><i class="fas fa-chevron-down text-brand-gray transition-transform"></i></button><div class="faq-answer hidden p-6 pt-0 text-brand-gray"><p>Evet, kesin

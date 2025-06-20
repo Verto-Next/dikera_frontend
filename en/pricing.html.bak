@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pricing - Dikera AI | Transparent and Flexible Plans</title>
+    <meta name="description" content="Review our flexible and transparent Silver, Gold, and Premium plans, suitable for everyone from solo practitioners to large law firms.">
+    <link rel="canonical" href="https://www.dikera.ai/en/pricing.html">
+    <link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/fiyatlandirma.html">
+    <link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/pricing.html">
+    <meta property="og:title" content="Pricing - Dikera AI | Transparent and Flexible Plans">
+    <meta property="og:description" content="Discover our flexible plans tailored to your needs.">
+    <meta property="og:url" content="https://www.dikera.ai/en/pricing.html">
+    <meta property="og:image" content="https://www.dikera.ai/images/social-preview-pricing.jpg">
+    <script src="https://cdn.tailwindcss.com"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" /><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"><script>tailwind.config={theme:{extend:{fontFamily:{sans:['Inter','sans-serif']},colors:{'brand-dark':'#1A202C','brand-dark-secondary':'#2D3748','brand-blue':'#3B82F6','brand-gold':'#FBBF24','brand-light':'#E2E8F0','brand-gray':'#A0AEC0'}}}}</script>
+</head>
+<body class="bg-brand-dark text-brand-light">
+    <nav class="bg-brand-dark/80 backdrop-blur-sm sticky top-0 z-50 border-b border-gray-700/50">
+        <div class="container mx-auto px-6 py-3 flex justify-between items-center">
+            <a href="index.html" class="text-2xl font-bold text-white">Dikera AI</a>
+            <div class="hidden md:flex space-x-6 items-center">
+                <a href="features.html" class="text-brand-gray hover:text-white transition">Features</a>
+                <a href="pricing.html" class="text-white font-semibold">Pricing</a>
+                <a href="faq.html" class="text-brand-gray hover:text-white transition">FAQ</a>
+                <a href="#" class="text-brand-gray hover:text-white transition">Log In</a>
+                <div class="relative" id="lang-switcher"><button id="lang-button" class="flex items-center text-brand-gray hover:text-white"><img src="https://flagcdn.com/w20/gb.png" alt="English" class="w-5 h-5 mr-2"> EN <i class="fas fa-chevron-down fa-xs ml-1"></i></button><div id="lang-menu" class="hidden absolute right-0 mt-2 w-32 bg-brand-dark-secondary rounded-md shadow-lg py-1"><a href="../tr/fiyatlandirma.html" class="flex items-center px-4 py-2 text-sm text-brand-light hover:bg-gray-700"><img src="https://flagcdn.com/w20/tr.png" alt="Türkçe" class="w-5 h-5 mr-2"> TR</a></div></div>
+            </div>
+            <div class="md:hidden"><button id="mobile-menu-button" class="text-white focus:outline-none"><i class="fas fa-bars fa-lg"></i></button></div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden"><a href="features.html" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Features</a><a href="pricing.html" class="block py-3 px-6 text-sm bg-brand-dark-secondary">Pricing</a><a href="faq.html" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">FAQ</a><a href="#" class="block py-3 px-6 text-sm hover:bg-brand-dark-secondary">Log In</a></div>
+    </nav>
+    <main class="py-20">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-12"><h1 class="text-4xl md:text-5xl font-extrabold text-white">Transparent Plans That Fit Your Needs</h1><p class="mt-4 max-w-2xl mx-auto text-brand-gray">Whether you're a solo practitioner or a full team, we have a solution for you.</p></div>
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center max-w-6xl mx-auto">
+                <div class="bg-brand-dark-secondary p-8 rounded-lg border border-gray-700 h-full flex flex-col"><h3 class="text-2xl font-bold text-brand-gold">Silver</h3><p class="text-brand-gray mt-2">For Solo Practitioners & Boutique Firms</p><p class="text-4xl font-extrabold text-white mt-6">$79<span class="text-lg font-medium text-brand-gray">/mo</span></p><ul class="mt-6 space-y-4 text-brand-light flex-grow"><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>3 Users</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>2 Agents</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>5 GB Storage</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>1,000 Queries/Month</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Daily Backups</li></ul><a href="#" class="mt-8 block w-full text-center bg-gray-700 text-white py-3 rounded-md font-semibold hover:bg-gray-600">Choose Plan</a></div>
+                <div class="bg-brand-dark-secondary p-10 rounded-lg border-2 border-brand-blue scale-105 shadow-2xl shadow-blue-500/20 h-full flex flex-col"><p class="text-sm font-bold bg-brand-blue text-white py-1 px-3 rounded-full inline-block mb-4">MOST POPULAR</p><h3 class="text-2xl font-bold text-brand-blue">Gold</h3><p class="text-brand-gray mt-2">For Mid-Sized Firms & Departments</p><p class="text-5xl font-extrabold text-white mt-6">$249<span class="text-lg font-medium text-brand-gray">/mo</span></p><ul class="mt-6 space-y-4 text-brand-light flex-grow"><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>10 Users</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>10 Agents</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>25 GB Storage</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>5,000 Queries/Month</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Hourly Backups</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Priority Email Support</li></ul><a href="#" class="mt-8 block w-full text-center bg-brand-blue text-white py-3 rounded-md font-semibold hover:bg-blue-600">Choose Plan</a></div>
+                <div class="bg-brand-dark-secondary p-8 rounded-lg border border-gray-700 h-full flex flex-col"><h3 class="text-2xl font-bold text-brand-gold">Premium</h3><p class="text-brand-gray mt-2">For Large Firms & Enterprises</p><p class="text-4xl font-extrabold text-white mt-6">Custom</p><ul class="mt-6 space-y-4 text-brand-light flex-grow"><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Unlimited Users</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Unlimited Agents</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Customizable Storage</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>High-Volume Usage</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Point-in-Time Backups & SLA</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>Dedicated Account Manager</li><li class="flex items-center"><i class="fas fa-check text-green-500 mr-3"></i>API Access & SSO</li></ul><a href="#" class="mt-8 block w-full text-center bg-gray-700 text-white py-3 rounded-md font-semibold hover:bg-gray-600">Contact Us</a></div>
+            </div>
+        </div>
+    </main>
+    <footer class="bg-gray-900/50 border-t border-gray-700/50"><div class="container mx-auto px-6 py-8 text-center text-brand-gray"><p>&copy; 2025 Dikera AI. All rights reserved.</p></div></footer>
+    <script>const mobileMenuButton=document.getElementById('mobile-menu-button');const mobileMenu=document.getElementById('mobile-menu');mobileMenuButton.addEventListener('click',()=>{mobileMenu.classList.toggle('hidden');});const langButton=document.getElementById('lang-button');const langMenu=document.getElementById('lang-menu');if(langButton){langButton.addEventListener('click',()=>{langMenu.classList.toggle('hidden');});}document.addEventListener('click',function(event){const isClickInside=document.getElementById('lang-switcher').contains(event.target);if(!isClickInside&&langMenu&&!langMenu.classList.contains('hidden')){langMenu.classList.add('hidden');}});</script>
+</body>
+</html>

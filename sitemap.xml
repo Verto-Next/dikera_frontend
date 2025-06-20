@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.dikera.ai/tr/index.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/index.html"/>
+  </url>
+  <url>
+    <loc>https://www.dikera.ai/tr/ozellikler.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/ozellikler.html"/>
+  </url>
+  <url>
+    <loc>https://www.dikera.ai/tr/fiyatlandirma.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/fiyatlandirma.html"/>
+  </url>
+  <url>
+    <loc>https://www.dikera.ai/tr/sss.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/sss.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.dikera.ai/en/index.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/index.html"/>
+  </url>
+  <url>
+    <loc>https://www.dikera.ai/en/features.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/ozellikler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/features.html"/>
+  </url>
+  <url>
+    <loc>https://www.dikera.ai/en/pricing.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/fiyatlandirma.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/pricing.html"/>
+  </url>
+  <url>
+    <loc>https://www.dikera.ai/en/faq.html</loc>
+    <lastmod>2025-06-20</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dikera.ai/tr/sss.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dikera.ai/en/faq.html"/>
+  </url>
+</urlset>
